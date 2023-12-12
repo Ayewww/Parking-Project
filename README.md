@@ -198,7 +198,7 @@ public class DeviceActivity extends AppCompatActivity {
                     jsonArray.put(tag1);
 	...
 }
-
+```
 *이외에도 변수나 화면 구성 요소등을 바꿨지만 전달에 지장이 없을 것 같아 생략했다.
 
 ##앱 구동
